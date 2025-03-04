@@ -1,0 +1,5 @@
+- relu
+- leakyReLu
+- Batchnorm
+- Tanh
+- Dropout
